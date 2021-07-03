@@ -13,3 +13,9 @@ pyinstaller cli.py --onefile
 cd dist\
 .\cli.exe
 ```
+
+## How to use
+TODO: add image
+
+# Next Step
+Maybe create a docker version for more stable distribution?
