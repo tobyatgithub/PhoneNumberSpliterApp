@@ -1,4 +1,4 @@
-from phoneSpliter.main import main
+from phoneSplitter.main import main
 
 if __name__ == "__main__":
     main()
