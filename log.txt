@@ -1,0 +1,43 @@
+61 INFO: PyInstaller: 4.3
+61 INFO: Python: 3.9.4
+61 INFO: Platform: Windows-10-10.0.21390-SP0
+62 INFO: wrote D:\Toby\python_works\TkinterTutorial_RealPython\cli.spec
+62 DEBUG: Testing for UPX ...
+73 INFO: UPX is not available.
+81 DEBUG: script: D:\Toby\python_works\TkinterTutorial_RealPython\cli.py
+81 INFO: Extending PYTHONPATH with paths
+['D:\\Toby\\python_works\\TkinterTutorial_RealPython',
+ 'D:\\Toby\\python_works\\TkinterTutorial_RealPython']
+88 INFO: checking Analysis
+158 INFO: checking PYZ
+180 INFO: checking PKG
+195 INFO: Building because toc changed
+195 INFO: Building PKG (CArchive) PKG-00.pkg
+203 DEBUG: Compiling c:\python39\lib\site-packages\PyInstaller\loader\pyiboot01_bootstrap.py
+203 DEBUG: Compiling c:\python39\lib\site-packages\PyInstaller\loader\pyiboot01_bootstrap.py
+205 DEBUG: Compiling C:\Python39\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_multiprocessing.py
+205 DEBUG: Compiling C:\Python39\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_multiprocessing.py
+206 DEBUG: Compiling C:\Python39\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth__tkinter.py
+206 DEBUG: Compiling C:\Python39\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth__tkinter.py
+206 DEBUG: Compiling D:\Toby\python_works\TkinterTutorial_RealPython\cli.py
+207 DEBUG: Compiling D:\Toby\python_works\TkinterTutorial_RealPython\cli.py
+210 INFO: Building PKG (CArchive) PKG-00.pkg completed successfully.
+210 INFO: Bootloader c:\python39\lib\site-packages\PyInstaller\bootloader\Windows-64bit\run.exe
+210 INFO: checking EXE
+227 INFO: Rebuilding EXE-00.toc because cli.exe missing
+227 INFO: Building EXE from EXE-00.toc
+228 INFO: Copying icons from ['c:\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico']
+273 INFO: Writing RT_GROUP_ICON 0 resource with 104 bytes
+273 INFO: Writing RT_ICON 1 resource with 3752 bytes
+273 INFO: Writing RT_ICON 2 resource with 2216 bytes
+273 INFO: Writing RT_ICON 3 resource with 1384 bytes
+273 INFO: Writing RT_ICON 4 resource with 37019 bytes
+273 INFO: Writing RT_ICON 5 resource with 9640 bytes
+273 INFO: Writing RT_ICON 6 resource with 4264 bytes
+273 INFO: Writing RT_ICON 7 resource with 1128 bytes
+280 INFO: Appending archive to EXE D:\Toby\python_works\TkinterTutorial_RealPython\build\cli\cli.exe
+1607 INFO: Building EXE from EXE-00.toc completed successfully.
+1609 INFO: checking COLLECT
+1609 INFO: Building COLLECT because COLLECT-00.toc is non existent
+1609 INFO: Building COLLECT COLLECT-00.toc
+3518 INFO: Building COLLECT COLLECT-00.toc completed successfully.
