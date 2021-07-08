@@ -37,7 +37,7 @@ def transfer(in_str, save_path, num_per_file, save_filename):
     #  check special cases
     output = []
     while in_str:
-        phone = in_str.pop()
+        phone = in_str.pop() # shall pop 0 instead
         if len(phone) == 11 and phone[0] == "1":
             output.append(phone[1:])
         elif len(phone) == 10:
